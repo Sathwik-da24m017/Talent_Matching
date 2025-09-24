@@ -1,0 +1,35 @@
+{
+  "Programming": [
+    "Python", "Java", "C++", "C#", "JavaScript", "TypeScript", "Go", "Rust", "Scala", "R", ".NET Core", "Spring Boot", "Django", "Flask", "FastAPI"
+  ],
+  "Data_Engineering": [
+    "SQL", "PL/SQL", "NoSQL", "MongoDB", "Cassandra", "Kafka", "Spark", "Hadoop", "Hive", "Airflow", "Databricks", "Snowflake", "Redshift", "BigQuery"
+  ],
+  "AI_ML": [
+    "TensorFlow", "PyTorch", "Scikit-learn", "Keras", "XGBoost", "LightGBM", "HuggingFace Transformers", "NLP", "Computer Vision", "Time Series", "MLOps"
+  ],
+  "Cloud_Infrastructure": [
+    "AWS", "Azure", "GCP", "Kubernetes", "Docker", "Terraform", "Helm", "Linux", "Windows Server", "VMware"
+  ],
+  "DevOps_SRE": [
+    "CI/CD", "Jenkins", "GitLab CI", "GitHub Actions", "Ansible", "Puppet", "Prometheus", "Grafana", "ELK Stack", "Argo CD"
+  ],
+  "Web_Mobile": [
+    "React", "Angular", "Vue.js", "Next.js", "Node.js", "Express", "ASP.NET", "Android", "iOS/Swift", "Flutter", "React Native"
+  ],
+  "Testing_QA": [
+    "Selenium", "Cypress", "Playwright", "JUnit", "TestNG", "PyTest", "Postman", "REST Assured", "JMeter"
+  ],
+  "ERP_Platforms": [
+    "SAP-ABAP", "SAP-HANA", "SAP-BW", "SAP-FICO", "Oracle-ERP", "Workday", "Salesforce Apex", "ServiceNow", "Microsoft Dynamics 365"
+  ],
+  "Cybersecurity": [
+    "IAM", "SIEM", "Splunk", "Penetration Testing", "Vulnerability Management", "Network Security", "ISO 27001", "Cloud Security"
+  ],
+  "BI_Analytics": [
+    "Power BI", "Tableau", "Looker", "Qlik", "Advanced Excel", "SSIS", "SSRS"
+  ],
+  "Integration_ETL": [
+    "MuleSoft", "Informatica", "Talend", "API Management", "ETL/ELT"
+  ]
+}

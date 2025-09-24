@@ -1,0 +1,38 @@
+{
+  "india": [
+    "Chennai",
+    "Bengaluru",
+    "Hyderabad",
+    "Pune",
+    "Gurgaon",
+    "Kolkata",
+    "Mumbai",
+    "Coimbatore",
+    "Kochi"
+  ],
+  "global": [
+    "New York",
+    "Dallas",
+    "Toronto",
+    "Mexico City",
+    "London",
+    "Dublin",
+    "Frankfurt",
+    "Amsterdam",
+    "Zurich",
+    "Paris",
+    "Madrid",
+    "Stockholm",
+    "Singapore",
+    "Manila",
+    "Sydney",
+    "Melbourne",
+    "Tokyo",
+    "Seoul",
+    "Dubai",
+    "Johannesburg"
+  ],
+  "virtual": [
+    "Remote"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "scale": [1, 5],
+  "attributes": [
+    "Communication",
+    "Collaboration",
+    "Leadership",
+    "Problem Solving",
+    "Adaptability",
+    "Accountability",
+    "Client Focus",
+    "Time Management",
+    "Ownership",
+    "Attention to Detail",
+    "Creativity",
+    "Conflict Resolution",
+    "Stakeholder Management",
+    "Mentoring"
+  ],
+  "rating_guidelines": {
+    "1": "Needs significant improvement",
+    "2": "Developing",
+    "3": "Meets expectations",
+    "4": "Exceeds expectations",
+    "5": "Role model / exceptional"
+  }
+}

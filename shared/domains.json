@@ -1,0 +1,26 @@
+{
+  "industry_verticals": [
+    "Banking & Financial Services",
+    "Insurance",
+    "Healthcare & Life Sciences",
+    "Pharma",
+    "Retail & E-commerce",
+    "Manufacturing",
+    "Telecom & Media",
+    "Energy & Utilities",
+    "Travel & Hospitality",
+    "Public Sector"
+  ],
+  "service_lines": [
+    "Application Development & Maintenance",
+    "Data Engineering & Analytics",
+    "AI/ML & MLOps",
+    "Cloud Migration & Modernization",
+    "DevOps & SRE",
+    "Cybersecurity",
+    "ERP & SAP",
+    "Salesforce & ServiceNow",
+    "Quality Engineering & Testing",
+    "Consulting & Business Analysis"
+  ]
+}

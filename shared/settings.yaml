@@ -1,0 +1,31 @@
+random_seed: 42
+
+adjacent_skills:
+  # Used later when we activate/prune the adjacency graph for matching
+  min_weight: 0.35     # keep edges with weight >= this
+  top_k: 5             # keep at most top-k neighbors per skill
+  fallback_to_manual: false
+
+employees:
+  n: 600                              # how many employees to generate
+  skills_per_employee: {min: 3, max: 7}
+  soft_skills_scatter: true
+  bench_probability: 0.25
+  bench_duration_weeks: {min: 0, max: 8}
+  bandwidth_free_fraction: {min: 0.1, max: 0.8}
+  # optional distributions (can be used by Smita later)
+  exp_by_level_override: true         # if true, use roles_levels.json ranges
+  soft_skills_center: 3.6             # average rating center (1–5)
+  soft_skills_std: 0.6
+
+jobs:
+  n: 140                               # how many jobs/projects to generate
+  skills_per_job: {min: 3, max: 6}
+  min_experience_years: {min: 0, max: 10}
+  duration_months: {min: 2, max: 12}
+  priority_weights: {"Low": 1, "Medium": 2, "High": 3, "Critical": 5}
+  budget_lakhs_inr: {min: 15, max: 300}
+  hr_requirements_people: {min: 2, max: 15}
+  remote_mix_probability: 0.5
+  use_industry_verticals: true        # use domains.industry_verticals to name projects
+  use_service_lines: true             # use domains.service_lines to align tech selection

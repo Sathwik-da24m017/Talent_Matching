@@ -1,0 +1,31 @@
+{
+  "roles": [
+    "Software Engineer",
+    "Full-Stack Developer",
+    "Backend Engineer",
+    "Frontend Engineer",
+    "Data Engineer",
+    "Data Scientist",
+    "ML Engineer",
+    "QA/Test Engineer",
+    "DevOps/SRE Engineer",
+    "Cloud Engineer",
+    "Cybersecurity Analyst",
+    "Business Analyst",
+    "UI/UX Designer",
+    "ERP/SAP Consultant",
+    "Salesforce/ServiceNow Developer",
+    "Project Manager",
+    "Solutions/Technical Architect"
+  ],
+  "levels": {
+    "PAT":        { "label": "Programmer Analyst Trainee", "exp_range": [0, 1],  "pay_band": "L1" },
+    "PA":         { "label": "Programmer Analyst",         "exp_range": [1, 3],  "pay_band": "L2" },
+    "Associate":  { "label": "Associate",                  "exp_range": [3, 6],  "pay_band": "L3" },
+    "SrAssociate":{ "label": "Senior Associate",           "exp_range": [6, 9],  "pay_band": "L4" },
+    "Manager":    { "label": "Manager",                    "exp_range": [9, 12], "pay_band": "L5" },
+    "SrManager":  { "label": "Senior Manager",             "exp_range": [12, 15],"pay_band": "L6" },
+    "Arch/AD":    { "label": "Architect / Associate Director", "exp_range": [12, 18], "pay_band": "L7" },
+    "Director+":  { "label": "Director and above",         "exp_range": [16, 22], "pay_band": "L8" }
+  }
+}

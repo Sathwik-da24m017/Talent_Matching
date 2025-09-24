@@ -1,0 +1,15 @@
+# OS / editor
+.DS_Store
+.vscode/
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# Data & artifacts
+data/*.csv
+data/*.parquet
+data/*.jsonl
+experiments/**/artifacts/
+# Notebooks
+*.ipynb_checkpoints

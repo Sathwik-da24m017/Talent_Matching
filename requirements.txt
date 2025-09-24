@@ -1,0 +1,15 @@
+pandas
+numpy
+faker
+mimesis
+scikit-learn
+networkx
+matplotlib
+orjson
+PyYAML
+python-dateutil
+pydantic
+pulp
+ortools
+jupyter
+ipykernel

@@ -1,8 +1,6 @@
 # Employee-Project Matching System (MTP)
 
-A synthetic-data-driven prototype for intelligently matching employees to open projects within a large organization (e.g., Cognizant/X). This project simulates real-world workforce planning and talent allocation scenarios by combining skill embeddings, adjacent-skill mapping, optimization under constraints (bench time, budget, bandwidth), and two-stage matching workflows.
-
----
+A synthetic-data-driven prototype for intelligently matching employees to open projects within a large organization (Cognizant). This project simulates real-world workforce planning and talent allocation scenarios by combining skill embeddings, adjacent-skill mapping, optimization under constraints (bench time, budget, bandwidth), and two-stage matching workflows.
 
 ## Project Goals
 
